@@ -11,7 +11,7 @@ Comprehensive monitoring and management toolkit for your Bitz Miner, built with:
 
 ## 📦 What’s Included
 
-- `bitz_runnerV5.sh` — your mining script with auto-RPC switch, reward claiming, and crash tracking.
+- `bitz_runner.sh` — your mining script with auto-RPC switch, reward claiming, and crash tracking.
 - `bitz_exporter.sh` — custom Prometheus exporter that:
   - Extracts on-chain BITZ token balance
   - Aggregates mined tokens in last 24h
@@ -100,6 +100,13 @@ You need to install the following manually **before using the scripts**:
 
 Maintained by **@InverseAltruism**.
 Feel free to fork, improve, or open issues.
+
+---
+
+## Socials
+
+Feel free to follow my twitter - https://x.com/0xInverse
+Join my TG - https://t.me/OxInverse
 
 ---
 
